@@ -44,6 +44,3 @@ This project focuses on SQL-based analysis rather than visualization.
 ## 🛠️ Tools Used
 - SQL (MySQL)
 - Canva
----
-
-## 📂 Project Structure
